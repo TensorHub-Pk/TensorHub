@@ -9,7 +9,7 @@ TensorHub is a specialized software development house based in **Lahore, Pakista
 ### 🌐 Key Properties
 * **[Official Hub](https://tensorhub.pk):** Custom Software Development & MVP Services.
 * **[Timespace SaaS](https://timespace.tensorhub.pk/):** Internal productivity tool for modern teams.
-* **[Engineering Lead](https://github.com/muhammad-owais):** Led by Muhammad Owais.
+* **[Engineering Lead](https://www.linkedin.com/in/%20MuhammadOwaisCEOTensorhub):** Led by Muhammad Owais.
 
 ### 🛠️ Core Capabilities
 - **Startup Launchpad:** Rapid MVP development from architectural design to deployment.
